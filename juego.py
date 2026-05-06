@@ -1,4 +1,4 @@
-# Juego creado por [Tu Nombre] - Repaso de Git 
+# Juego creado por [Layla Sarmiento] - Repaso de Git 
 import random
 
 def jugar():
